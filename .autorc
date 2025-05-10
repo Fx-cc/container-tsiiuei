@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Fx-cc",
+  "repo": "container-tsiiuei",
+  "name": "Fx-cc",
+  "email": "fxa80.cc@gmail.com",
+}
